@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>List Cart</title>
+    <link rel="stylesheet" href="/style/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+
+  <body>
+    <div class="container">
+      
+      <div class="navbar">
+        <div class="navbar-left">
+          <button type="button" id="Menu">
+            <img src="/assets/menu.png" alt="" />
+          </button>
+          <div class="line"></div>
+          <button type="button"><img src="/assets/Buy.png" alt="" /></button>
+          <span id="cartList-QTY">0</span>
+        </div>
+        <div class="navList" id="navList">
+          <div class="item">
+            <img src="/assets/menuIcon/menu1.png" alt="" />
+            <h1>Winter clothing</h1>
+          </div>
+          <div class="item">
+            <img src="/assets/menuIcon/menu2.png" alt="" />
+            <h1>Trousers & jeans</h1>
+          </div>
+          <div class="item">
+            <img src="/assets/menuIcon/menu3.png" alt="" />
+            <h1>Shoes & sandle</h1>
+          </div>
+          <div class="item">
+            <img src="/assets/menuIcon/menu4.png" alt="" />
+            <h1>Hats & caps</h1>
+          </div>
+          <div class="item">
+            <img src="/assets/menuIcon/menu5.png" alt="" />
+            <h1>Bags & purses</h1>
+          </div>
+          <div class="item">
+            <img src="/assets/menuIcon/menu6.png" alt="" />
+            <h1>Ladies Whatches</h1>
+          </div>
+        </div>
+      </div>
+      <h1 class="title">Your Product</h1>
+      <div class="allList-Container">
+        <div class="AllList" id="AllList">
+          <!-- Show  All View cart , Shoping cart -->
+        </div>
+        <div class="detail">
+          <h3>Invoice Detail</h3>
+          <p>Date : <span id="dateNow"></span></p>
+          <p>SubTotal : $<span>100.00</span></p>
+          <p>Price Discount : $<span id="price">5.00</span></p>
+          <p>Total Discount : <span id="totalDis">30</span>%</p>
+          <p>Tax : $10.00</p>
+          <h4>Total : $<span id="totalpay">400.00</span></h4>
+        </div>
+      </div>
+    </div>
+    <script src="/js/ListCart.js"></script>
+    <script src="/js/app.js"></script>
+  </body>
+</html>

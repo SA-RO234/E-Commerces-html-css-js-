@@ -1,0 +1,788 @@
+{
+  "Bag": [
+    {
+      "id": 1,
+      "img": "/assets/bag/bag1.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "qty": 1
+    },
+
+    {
+      "id": 2,
+      "img": "/assets/bag/bag2.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "img": "/assets/bag/bag4.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      "qty": 1
+    },
+    {
+      "id": 4,
+      "img": "/assets/bag/bag6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 5,
+      "img": "/assets/bag/bag5.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 6,
+      "img": "/assets/bag/bag6.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 7,
+      "img": "/assets/bag/bag1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 8,
+      "img": "/assets/bag/bag2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 9,
+      "img": "/assets/bag/bag3.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 10,
+      "img": "/assets/bag/bag4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 11,
+      "img": "/assets/bag/bag5.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 12,
+      "img": "/assets/bag/bag6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 13,
+      "img": "/assets/bag/bag1.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 14,
+      "img": "/assets/bag/bag4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 15,
+      "img": "/assets/bag/bag5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 16,
+      "img": "/assets/bag/bag6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "Winter": [
+    {
+      "id": 17,
+      "qty": 1,
+      "img": "assets/winter/winter1.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+
+    {
+      "id": 18,
+      "qty": 1,
+      "img": "assets/winter/winter2.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 19,
+      "img": "assets/winter/winter3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 20,
+      "qty": 1,
+      "img": "assets/winter/winter4.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 21,
+      "img": "assets/winter/winter5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 22,
+      "img": "assets/winter/winter1.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 23,
+      "img": "assets/winter/winter2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 24,
+      "img": "assets/winter/winter3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 25,
+      "img": "assets/winter/winter4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 26,
+      "img": "assets/winter/winter5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 27,
+      "img": "assets/winter/winter1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 28,
+      "img": "assets/winter/winter2.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 29,
+      "img": "assets/winter/winter3.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 30,
+      "img": "assets/winter/winter4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 31,
+      "img": "assets/winter/winter5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 32,
+      "qty": 1,
+      "img": "assets/winter/winter1.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "Trousers": [
+    {
+      "id": 33,
+      "qty": 1,
+      "img": "assets/Jeans/jean1.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+
+    {
+      "id": 34,
+      "qty": 1,
+      "img": "assets/Jeans/jean2.png",
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 35,
+      "img": "assets/Jeans/jean3.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 36,
+      "img": "assets/Jeans/jean4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 37,
+      "img": "assets/Jeans/jean5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 38,
+      "img": "assets/Jeans/jean6.png",
+      "qty": 1,
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 39,
+      "img": "assets/Jeans/jean1.png",
+      "qty": 1,
+      "price": "$69.50",
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 40,
+      "img": "assets/Jeans/jean2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 41,
+      "img": "assets/Jeans/jean3.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 42,
+      "img": "assets/Jeans/jean4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 43,
+      "img": "assets/Jeans/jean5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 44,
+      "img": "assets/Jeans/jean6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 45,
+      "img": "assets/Jeans/jean1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 46,
+      "img": "assets/Jeans/jean2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 47,
+      "img": "assets/Jeans/jean3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 48,
+      "img": "assets/Jeans/jean4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "Shoes": [
+    {
+      "id": 49,
+      "img": "assets/Shoes/Shoes1.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+
+    {
+      "id": 50,
+      "img": "assets/Shoes/Shoes2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 51,
+      "img": "assets/Shoes/Shoes3.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 52,
+      "img": "assets/Shoes/Shoes4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 53,
+      "img": "assets/Shoes/Shoes5.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 54,
+      "img": "assets/Shoes/Shoes6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 55,
+      "img": "assets/Shoes/Shoes1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 56,
+      "img": "assets/Shoes/Shoes2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 57,
+      "img": "assets/Shoes/Shoes3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 58,
+      "img": "assets/Shoes/Shoes4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 59,
+      "img": "assets/Shoes/Shoes5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 60,
+      "img": "assets/Shoes/Shoes6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 61,
+      "img": "assets/Shoes/Shoes1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 62,
+      "img": "assets/Shoes/Shoes2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 63,
+      "img": "assets/Shoes/Shoes3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 64,
+      "img": "assets/Shoes/Shoes4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "Hats": [
+    {
+      "id": 65,
+      "img": "assets/Hats/hats1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+
+    {
+      "id": 66,
+      "img": "assets/Hats/hats2.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 67,
+      "img": "assets/Hats/hats3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 68,
+      "img": "assets/Hats/hats4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 69,
+      "img": "assets/Hats/hats5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 70,
+      "img": "assets/Hats/hats6.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 71,
+      "img": "assets/Hats/hats1.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 72,
+      "img": "assets/Hats/hats2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 73,
+      "img": "assets/Hats/hats3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 74,
+      "img": "assets/Hats/hats4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 75,
+      "img": "assets/Hats/hats5.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 76,
+      "img": "assets/Hats/hats6.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 77,
+      "img": "assets/Hats/hats1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 78,
+      "img": "assets/Hats/hats2.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 79,
+      "img": "assets/Hats/hats3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 80,
+      "img": "assets/Hats/hats4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "Whatches": [
+    {
+      "id": 81,
+      "img": "assets/Watches/watch1.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+
+    {
+      "id": 82,
+      "img": "assets/Watches/watch2.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 83,
+      "img": "assets/Watches/watch3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 84,
+      "img": "assets/Watches/watch4.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 85,
+      "img": "assets/Watches/watch5.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 86,
+      "img": "assets/Watches/watch6.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 87,
+      "img": "assets/Watches/watch1.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 88,
+      "img": "assets/Watches/watch2.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 89,
+      "img": "assets/Watches/watch3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 90,
+      "img": "assets/Watches/watch4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 91,
+      "img": "assets/Watches/watch5.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 92,
+      "img": "assets/Watches/watch6.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 93,
+      "img": "assets/Watches/watch1.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 94,
+      "img": "assets/Watches/watch2.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 95,
+      "img": "assets/Watches/watch3.png",
+      "price": "$69.50",
+      "qty": 1,
+      "discount": "",
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 96,
+      "img": "assets/Watches/watch4.png",
+      "price": "$69.50",
+      "discount": "",
+      "qty": 1,
+      "discription": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    }
+  ]
+}
