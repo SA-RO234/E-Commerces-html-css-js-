@@ -1,8 +1,6 @@
-import React from 'react'
 
 export function Navbar(){
-  return (
-    <div>
+  return `
       <div class="navbar-left">
         <button type="button" id="Menu">
           <img src="/assets/menu.png" alt="" />
@@ -47,8 +45,8 @@ export function Navbar(){
           <i class="fa-solid fa-chevron-right"></i>
         </button>
       </div>
-    </div>
-  );
+    `
+  
 }
 
 export default Navbar;
