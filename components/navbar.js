@@ -9,7 +9,7 @@ export function Navbar(){
         <a href="/ListCart.html">
           <img src="/assets/Buy.png" alt="" />
         </a>
-        <span id="cartindex-QTY">0</span>
+        <span id="cart-QTY">0</span>
       </div>
       <div class="navList" id="navList">
         <div class="item" id="fetch-Winter">
