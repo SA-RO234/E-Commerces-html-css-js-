@@ -6,9 +6,9 @@ export function Navbar(){
           <img src="/assets/menu.png" alt="" />
         </button>
         <div class="line"></div>
-        <a href="/ListCart.html">
+        <-a href="/ListCart.html">
           <img src="/assets/Buy.png" alt="" />
-        </a>
+        </-a>
         <span id="cart-QTY">0</span>
       </div>
       <div class="navList" id="navList">
