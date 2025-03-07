@@ -16,21 +16,18 @@
   </head>
   <body>
     <div class="container">
-       <div class="navbar" id="navbar">
-
-       </div>
+      <div class="navbar" id="navbar"></div>
       <div class="allproduct-container" id="AllListcard">
         <!--  All Product show as dynamic ! -->
       </div>
     </div>
     <!-- JS -->
-    <script src="/js/ListCart.js"></script>
-
-    <script type="module">
-        import Navbar from "../components/navbar.js";
-    const navbar = document.querySelector("#navbar");
-     navbar.innerHTML = Navbar();
+      <script type="module">
+      import { Navbar } from "../components/navbar.js";
+      const navbar = document.querySelector("#navbar");
+      navbar.innerHTML = Navbar();
     </script>
-
+    <script src="/js/ListCart.js"></script>
+    <script src="/js/app.js" defer></script>
   </body>
 </html>
