@@ -1,14 +1,11 @@
-
-export function Navbar(){
+export function Navbar() {
   return `
       <div class="navbar-left">
         <button type="button" id="Menu">
           <img src="/assets/menu.png" alt="" />
         </button>
         <div class="line"></div>
-        <-a href="/ListCart.html">
-          <img src="/assets/Buy.png" alt="" />
-        </-a>
+          <img src="/assets/Buy.png" id="cart-btn" alt="" />
         <span id="cart-QTY">0</span>
       </div>
       <div class="navList" id="navList">
@@ -37,16 +34,15 @@ export function Navbar(){
           <h1>Ladies Whatches</h1>
         </div>
       </div>
-      <div class="nabar-right">
-        <button type="button">
+      <div class="nabar-right" id="Arrowbtn">
+        <button type="button" id="btnleftright">
           <i class="fa-solid fa-chevron-left"></i>
         </button>
-        <button type="button">
+        <button type="button" id="btnleftright">
           <i class="fa-solid fa-chevron-right"></i>
         </button>
       </div>
-    `
-  
+    `;
 }
 
 export default Navbar;
